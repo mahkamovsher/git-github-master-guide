@@ -28,3 +28,11 @@ Har bir mavzu alohida branchda tayyorlanadi. Har bir branchda kamida ikkita mazm
 
 ## Maqsad
 O‘rgangan komandalarimni amalda qo‘llash va ularni Markdown hujjatlarida tushunarli tarzda bayon qilish.
+
+## 🔗 Rasmlar
+
+### Git va versiyalar tarixi
+![Git rasmi](images/git.png)
+
+### GitHub va masofaviy hamkorlik
+![GitHub rasmi](images/github.png)
