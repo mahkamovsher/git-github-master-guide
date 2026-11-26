@@ -184,3 +184,24 @@ git init
 ```bash
 git status
 ```
+## Muhim eslatmalar
+
+- Git Bash’da `touch notes.txt` ishlaydi. Windows PowerShell’da bo‘sh fayl yaratish uchun `New-Item notes.txt -ItemType File` buyrug‘idan foydalanish mumkin.
+- PowerShell’da `ls` fayllar ro‘yxatini ko‘rsatadigan alias sifatida ishlaydi.
+- `rm` faylni o‘chiradi. Mashq paytida faqat o‘zingiz yaratgan va kerak emasligiga ishonch hosil qilgan sinov faylini o‘chiring.
+- Ushbu topshiriqda `rm -rf` kabi qaytarish qiyin bo‘lgan buyruqlarni ishlatmang.
+
+## Amaliy mashq
+
+```bash
+pwd
+mkdir terminal-mashq
+cd terminal-mashq
+touch notes.txt
+ls
+cat notes.txt
+git init
+git status
+```
+
+**Xulosa:** Terminal matnli buyruqlar orqali kompyuter bilan ishlashga yordam beradi. Har bir buyruqni bajarishdan oldin qaysi papkada turganingizni `pwd` bilan tekshiring.
