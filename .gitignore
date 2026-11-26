@@ -1,0 +1,11 @@
+# Vaqtinchalik fayllar
+*.tmp
+
+# Vaqtinchalik papka
+temp/
+
+# Shaxsiy fayl
+private-notes.txt
+
+# Operatsion tizim fayli
+.DS_Store
