@@ -3,7 +3,7 @@
 8-sinf uchun individual amaliy loyiha.
 
 ## Muallif
-Ism Familiya
+Shermuhammad Mahkamov
 
 ## Loyiha maqsadi
 Bu loyiha Git, GitHub va Terminal komandalarini o‘rganish, ularni amalda bajarish va o‘zgarishlarni versiyalar tarixi orqali boshqarish uchun yaratildi.
