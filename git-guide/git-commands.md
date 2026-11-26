@@ -168,3 +168,25 @@ git merge new-feature
 git switch main
 git branch -d new-feature
 ```
+## Qo‘shimcha: Git bo‘yicha savol-javoblar
+
+1. **Git nima?** — Fayllardagi o‘zgarishlarni kuzatadigan versiya nazorati tizimi.
+2. **Repository nima?** — Loyiha fayllari va ularning Git tarixini saqlaydigan joy.
+3. **`git add` nima qiladi?** — O‘zgarishlarni staging area’ga tayyorlaydi.
+4. **`git commit` nima qiladi?** — Stagingdagi o‘zgarishlarni tarixga saqlaydi.
+5. **Branch nima uchun kerak?** — Alohida vazifa ustida asosiy ishga ta’sir qilmasdan ishlash uchun.
+
+## Kichik amaliy ketma-ketlik
+
+```bash
+mkdir sinov-loyiha
+cd sinov-loyiha
+git init
+touch README.md
+git status
+git add README.md
+git commit -m "Create README file"
+git log --oneline
+```
+
+**Xulosa:** `git status` holatni tekshiradi, `git add` o‘zgarishlarni commitga tayyorlaydi, `git commit` esa ularni repository tarixida saqlaydi.
