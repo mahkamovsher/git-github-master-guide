@@ -22,17 +22,14 @@ Bu loyiha Git, GitHub va Terminal komandalarini o‘rganish, ularni amalda bajar
 ## Ishlash tartibi
 Har bir mavzu alohida branchda tayyorlanadi. Har bir branchda kamida ikkita mazmunli commit yaratiladi va GitHub’ga alohida push qilinadi. Ushbu topshiriq davomida branchlar merge qilinmaydi.
 
+
 ## Rasmlar
-- `images/git.png` — Git va versiyalar tarixi haqidagi tasvir.
-- `images/github.png` — GitHub va masofaviy hamkorlik haqidagi tasvir.
-
-## Maqsad
-O‘rgangan komandalarimni amalda qo‘llash va ularni Markdown hujjatlarida tushunarli tarzda bayon qilish.
-
-## 🔗 Rasmlar
 
 ### Git va versiyalar tarixi
 ![Git rasmi](images/git.png)
 
 ### GitHub va masofaviy hamkorlik
 ![GitHub rasmi](images/github.png)
+
+## Maqsad
+O‘rgangan komandalarimni amalda qo‘llash va ularni Markdown hujjatlarida tushunarli tarzda bayon qilish.
